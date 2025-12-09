@@ -1,4 +1,4 @@
-# ETABS-Load-Combination-Generator
+# ETABS Load Combination Generator
 An Excel-based Load Combination Generator for ETABS. 
 
 To use, first prepare your ETABS file with the corresponding Load Patterns and prepare the load combinations to be used using the generator.
